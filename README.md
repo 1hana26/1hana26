@@ -19,17 +19,19 @@
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1hana26)](https://github.com/1hana26/github-readme-stats)
-<br/>
   
 ## 💌 Reach me 💌
 
 <p>
-<a href = "https://github.com/x0ng120x"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> <a href = "https://velog.io/@x0ng120x"> <img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge"/></a>
-</a> <a href = "https://instagram.com/x0ng120x"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href = "https://github.com/1hana26"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+
+<img alt="Discord" src="https://img.shields.io/badge/#34하나6453-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+
+</a> <a href = "https://large-chips-839.notion.site/33a5792028ae4ff7bc7143b49b269a61"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+<br/>
 <img alt="Gmail" src 
-="https://img.shields.io/badge/jaysong0120@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+="https://img.shields.io/badge/seolhana6206@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x0ng120x&show_icons=true&theme=vue)
 </P>

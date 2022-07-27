@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=33&duration=4000&color=9D6EF7&center=true&vCenter=true&width=550&height=80&lines=Hi%F0%9F%91%8B%2C+I'm+Hanaseol!+Wellcom+to+my+GitHub!!+;I+wanna+be+a+backend++developer+;or+database++Admininistration;I'm+gonna+be+the+best+developer+in+the+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=33&duration=5000&color=9D6EF7&center=true&vCenter=true&width=550&height=80&lines=Hi%F0%9F%91%8B%2C+I'm+Hanaseol!+Wellcom+to+my+GitHub!!+;I+wanna+be+a+backend++developer+or+database++Admininistration;I'm+gonna+be+the+best+developer+in+the+world!)](https://git.io/typing-svg)
 <div align=center>
 
 ## 💻 Tech Stacks 💻

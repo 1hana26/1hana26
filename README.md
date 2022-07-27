@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=b19cdb&height=200&section=header&text=HanaSeol&fontSize=90&animation=twinkling&fontColor=2E2E2E)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=33&duration=4000&color=9D6EF7&center=true&vCenter=true&width=550&height=80&lines=Hi%F0%9F%91%8B%2C+I'm+Hanaseol!++;I+wanna+be+a+backend++developer+;or+database++Admininistration;I'm+gonna+be+the+best+developer+in+the+world!)](https://git.io/typing-svg)
 <div align=center>
 
@@ -16,6 +18,8 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> 
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1hana26)](https://github.com/1hana26/github-readme-stats)
 <br/>
   
 ## 💌 Reach me 💌

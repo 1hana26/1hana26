@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=b19cdb&height=200&section=header&text=HanaSeol&fontSize=90&animation=twinkling&fontColor=2E2E2E)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b19cdb&height=250&section=header&text=HanaSeol&fontSize=90&animation=twinkling&fontColor=2E2E2E)
 
 <div align="center">
 
